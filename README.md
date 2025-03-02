@@ -19,13 +19,13 @@ The Fake Review Detection System is designed to identify and prevent fake review
 ## Screenshots
 
 ### **1. Fake Review Detection Result I**
-![Detection Result](screenshots/Screenshot (108).png)
+![Image](https://github.com/user-attachments/assets/1762a89b-d495-4d58-b5b7-8ee17253b816)
 
 ### **2. Fake Review Detection Result II**
-![Detection Result](screenshots/Screenshot (109).png)
+![Image](https://github.com/user-attachments/assets/06774017-90b1-4b1e-b6a9-474471871782)
 
 ### **3. Fake Review Detection Result III**
-![Detection Result](screenshots/Screenshot (110).png)
+![Image](https://github.com/user-attachments/assets/52a6b106-3dc3-44fa-be36-678a9ae6a659)
 
 
 ## **Installation**
