@@ -1,0 +1,8 @@
+Flask
+flask-limiter
+scikit-learn
+pandas
+numpy
+nltk
+werkzeug
+requests
