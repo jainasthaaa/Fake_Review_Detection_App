@@ -16,6 +16,18 @@ The Fake Review Detection System is designed to identify and prevent fake review
 - **Stores reviews securely** with blockchain-based integrity.
 - **Provides an API** for submitting and retrieving reviews.
 
+## Screenshots
+
+### **1. Fake Review Detection Result I**
+![Detection Result](screenshots/Screenshot (108).png)
+
+### **2. Fake Review Detection Result II**
+![Detection Result](screenshots/Screenshot (109).png)
+
+### **3. Fake Review Detection Result III**
+![Detection Result](screenshots/Screenshot (110).png)
+
+
 ## **Installation**
 ### **1. Clone the Repository**
 ```bash
