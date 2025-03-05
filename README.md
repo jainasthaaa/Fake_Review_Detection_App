@@ -83,7 +83,7 @@ curl -X POST http://localhost:8080/predict -d "user_id=user123&product_id=produc
 This project is licensed under the **MIT License**.
 
 ## **Contributors**
-- **Your Name** - [GitHub Profile](https://github.com/jainasthaaa)
+- **Name** - [GitHub Profile](https://github.com/jainasthaaa)
 
 ---
 Feel free to contribute by submitting issues or pull requests!
